@@ -180,7 +180,7 @@
 7. [] MPI
 
 
-### Phase 10 — Research Programming
+### Phase 10 — Research Programming Implementation Hands On
 
 1. [] Transformer
 
