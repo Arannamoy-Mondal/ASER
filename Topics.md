@@ -46,7 +46,7 @@
 
 9. [ ] Optimizer
 
-10. [ ]Scheduler
+10. [ ] Scheduler
 
 11. [ ] Backpropagation
 
