@@ -1,6 +1,11 @@
-# AI Systems Engineer & Researcher Roadmap
+| Lane            |                                                               |
+| --------------- | -------------------------------------------------------------------------- |
+| 🟢 Programming  | [Scientific Computing](#phase-1--scientific-computing) + [PyTorch](#phase-3--pytorch-internals)                                             |
+| 🔵 Math         | [Linear Algebra](#phase-5--mathematics)+[Optimization ](#phase-11--systems-optimization)                                    |
+| 🟣 Algorithms   | [DSA and Algorithm](#phase-6--algorithms--data-structures)                                                  |
+| 🟠 Architecture | [Transformer → Mamba → GNN → Point → Tabular → Time Series](#modern-architectures)                  |
+| 🔴 Research     | SSL → Semi-Supervised → Active Learning → Uncertainty → Continual Learning |
 
----
 
 # Phase 1 — Scientific Computing
 
